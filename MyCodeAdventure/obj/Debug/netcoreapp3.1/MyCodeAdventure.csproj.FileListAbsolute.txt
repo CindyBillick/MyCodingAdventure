@@ -11,3 +11,16 @@ C:\Users\mbfla\source\repos\MyCodeAdventure1\MyCodeAdventure\obj\Debug\netcoreap
 C:\Users\mbfla\source\repos\MyCodeAdventure1\MyCodeAdventure\obj\Debug\netcoreapp3.1\MyCodeAdventure.dll
 C:\Users\mbfla\source\repos\MyCodeAdventure1\MyCodeAdventure\obj\Debug\netcoreapp3.1\MyCodeAdventure.pdb
 C:\Users\mbfla\source\repos\MyCodeAdventure1\MyCodeAdventure\obj\Debug\netcoreapp3.1\MyCodeAdventure.genruntimeconfig.cache
+C:\Users\cbill\OneDrive\Desktop\repos\MyCodingAdventure\MyCodeAdventure\bin\Debug\netcoreapp3.1\MyCodeAdventure.exe
+C:\Users\cbill\OneDrive\Desktop\repos\MyCodingAdventure\MyCodeAdventure\bin\Debug\netcoreapp3.1\MyCodeAdventure.deps.json
+C:\Users\cbill\OneDrive\Desktop\repos\MyCodingAdventure\MyCodeAdventure\bin\Debug\netcoreapp3.1\MyCodeAdventure.runtimeconfig.json
+C:\Users\cbill\OneDrive\Desktop\repos\MyCodingAdventure\MyCodeAdventure\bin\Debug\netcoreapp3.1\MyCodeAdventure.runtimeconfig.dev.json
+C:\Users\cbill\OneDrive\Desktop\repos\MyCodingAdventure\MyCodeAdventure\bin\Debug\netcoreapp3.1\MyCodeAdventure.dll
+C:\Users\cbill\OneDrive\Desktop\repos\MyCodingAdventure\MyCodeAdventure\bin\Debug\netcoreapp3.1\MyCodeAdventure.pdb
+C:\Users\cbill\OneDrive\Desktop\repos\MyCodingAdventure\MyCodeAdventure\obj\Debug\netcoreapp3.1\MyCodeAdventure.csprojAssemblyReference.cache
+C:\Users\cbill\OneDrive\Desktop\repos\MyCodingAdventure\MyCodeAdventure\obj\Debug\netcoreapp3.1\MyCodeAdventure.AssemblyInfoInputs.cache
+C:\Users\cbill\OneDrive\Desktop\repos\MyCodingAdventure\MyCodeAdventure\obj\Debug\netcoreapp3.1\MyCodeAdventure.AssemblyInfo.cs
+C:\Users\cbill\OneDrive\Desktop\repos\MyCodingAdventure\MyCodeAdventure\obj\Debug\netcoreapp3.1\MyCodeAdventure.csproj.CoreCompileInputs.cache
+C:\Users\cbill\OneDrive\Desktop\repos\MyCodingAdventure\MyCodeAdventure\obj\Debug\netcoreapp3.1\MyCodeAdventure.dll
+C:\Users\cbill\OneDrive\Desktop\repos\MyCodingAdventure\MyCodeAdventure\obj\Debug\netcoreapp3.1\MyCodeAdventure.pdb
+C:\Users\cbill\OneDrive\Desktop\repos\MyCodingAdventure\MyCodeAdventure\obj\Debug\netcoreapp3.1\MyCodeAdventure.genruntimeconfig.cache
